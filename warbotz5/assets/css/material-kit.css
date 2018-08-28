@@ -10051,8 +10051,13 @@ select.selectpicker {
     }
 }
 
-@media all and (max-width: 1050px) and (min-width: 991px) {
+@media all and (max-width: 1200px) and (min-width: 991px) {
     .main.main-raised .container {
         width: 920px;
+        margin-top: 0px;
+    }
+
+    .page-header .header-filter {
+        margin-bottom: 100px;
     }
 }
