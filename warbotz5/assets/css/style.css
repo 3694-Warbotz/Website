@@ -22,7 +22,7 @@ canvas {
 .aa_txt {
     font: 100 10vh/1 Roboto;
     text-align: center;
-    color: #674172;
+    color: rgb(244, 67, 54);
 }
 
 .aa_inner {
@@ -34,7 +34,7 @@ canvas {
 .aa_of {
     padding: 1rem;
     color: #ffffff;
-    background: #583862;
+    background: rgb(244, 67, 54);
 }
 
 .aa_ahmadawais {

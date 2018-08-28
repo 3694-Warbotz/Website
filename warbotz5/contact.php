@@ -21,7 +21,7 @@
 </head>
 
 <body class="about-us">
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-danger navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-example">
@@ -109,7 +109,7 @@
         </div>
     </nav>
 
-    <div class="page-header header-filter header-small" data-parallax="false" style="background-image: url('http://warbotz.org/images/banner.jpg');">
+    <div class="page-header header-filter header-small" data-parallax="false" style="background-image: url('http://warbotz.org/images/banner.jpg'); background-color: #303030;">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
@@ -158,7 +158,7 @@
         <div class="container">
             <div class="copyright pull-right">
                 Made with
-                <i style="color: blueviolet" class="fa fa-heart heart"></i> by
+                <i style="color: rgb(244, 67, 54)" class="fa fa-heart heart"></i> by
                 <a href="https://www.odor.io/" target="_blank">Odor.io</a>
             </div>
             <div class="copyright pull-left">
